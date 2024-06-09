@@ -821,6 +821,9 @@ INPUT /nix/store/nz50fza8gfq92ciby0ckc599rah1142m-texlive-2023-env-texmfdist/fon
 INPUT /nix/store/nz50fza8gfq92ciby0ckc599rah1142m-texlive-2023-env-texmfdist/fonts/vf/public/tempora/Tempora-Regular-tlf-ot1.vf
 INPUT /nix/store/nz50fza8gfq92ciby0ckc599rah1142m-texlive-2023-env-texmfdist/fonts/tfm/public/tempora/Tempora-Regular-tlf-ot1--base.tfm
 INPUT /nix/store/nz50fza8gfq92ciby0ckc599rah1142m-texlive-2023-env-texmfdist/fonts/enc/dvips/tempora/tmp_q3dzgc.enc
+INPUT /nix/store/nz50fza8gfq92ciby0ckc599rah1142m-texlive-2023-env-texmfdist/fonts/tfm/public/tempora/Tempora-BoldItalic-TLF-t2a.tfm
+INPUT /nix/store/nz50fza8gfq92ciby0ckc599rah1142m-texlive-2023-env-texmfdist/fonts/vf/public/tempora/Tempora-Regular-tlf-ot1.vf
+INPUT /nix/store/nz50fza8gfq92ciby0ckc599rah1142m-texlive-2023-env-texmfdist/fonts/tfm/public/tempora/Tempora-Regular-tlf-ot1--base.tfm
 INPUT ./my_folder/chapter3.tex
 INPUT ./my_folder/chapter3.tex
 INPUT ./my_folder/chapter3.tex
@@ -831,8 +834,6 @@ INPUT ./my_folder/chapter4.tex
 INPUT ./my_folder/chapter4.tex
 INPUT ./my_folder/chapter4.tex
 INPUT my_folder/chapter4.tex
-INPUT /nix/store/nz50fza8gfq92ciby0ckc599rah1142m-texlive-2023-env-texmfdist/fonts/vf/public/tempora/Tempora-Regular-tlf-ot1.vf
-INPUT /nix/store/nz50fza8gfq92ciby0ckc599rah1142m-texlive-2023-env-texmfdist/fonts/tfm/public/tempora/Tempora-Regular-tlf-ot1--base.tfm
 INPUT ./my_folder/conclusion.tex
 INPUT ./my_folder/conclusion.tex
 INPUT ./my_folder/conclusion.tex
@@ -875,6 +876,7 @@ INPUT build/My_practice.run.xml
 OUTPUT build/My_practice.run.xml
 INPUT /nix/store/nz50fza8gfq92ciby0ckc599rah1142m-texlive-2023-env-texmfdist/fonts/type1/public/newtx/NewTXMI.pfb
 INPUT /nix/store/nz50fza8gfq92ciby0ckc599rah1142m-texlive-2023-env-texmfdist/fonts/type1/public/tempora/Tempora-Bold.pfb
+INPUT /nix/store/nz50fza8gfq92ciby0ckc599rah1142m-texlive-2023-env-texmfdist/fonts/type1/public/tempora/Tempora-BoldItalic.pfb
 INPUT /nix/store/nz50fza8gfq92ciby0ckc599rah1142m-texlive-2023-env-texmfdist/fonts/type1/public/tempora/Tempora-Italic.pfb
 INPUT /nix/store/nz50fza8gfq92ciby0ckc599rah1142m-texlive-2023-env-texmfdist/fonts/type1/public/tempora/Tempora-Regular.pfb
 INPUT /nix/store/nz50fza8gfq92ciby0ckc599rah1142m-texlive-2023-env-texmfdist/fonts/type1/public/amsfonts/euler/eurm10.pfb
